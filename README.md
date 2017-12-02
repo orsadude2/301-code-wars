@@ -1,10 +1,11 @@
 # 301-code-wars
-H1 code wars repo
-H2 Replace all dots branch
+my-head-is-at-the-wrong-end
+code wars repo
 
-Problem Domain is to fix given js function to make it work. In
-this case there was a string of dots that needed to be replaced
-with dashes.
+My Head is at the Wrong End
+Problem domain: An array function was given. The problems set was that the 3 elements head, body and tail were not in the proper order.
 
-https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript
+My solution was to create a variable with the same name as the function as an array. I placed the array elements in the order of the problem set. I then returned the array, calling the elements in the order I wanted them - ie, proper order.
+
+
 
