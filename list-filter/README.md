@@ -1,8 +1,8 @@
 # 301-code-wars
-capitalization
+list-filter
 code wars repo
 
-Capitalization
-Problem domain: Given a string, capitalize the letters that occupy even indexes and odd indexes separately, and return as shown below. Index 0 will be considered even.
+List-Filter
+Problem domain: Creating a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out. 
 
 
